@@ -1,0 +1,2 @@
+# An-Analytical-Study-of-Student-Performance-and-Behaviour-at-Eminent-Group-of-Schools-2018-
+This project analyzed student performance and behaviour data from the Eminent Group of Schools (2018) using an interactive Excel-based dashboard. The goal was to uncover key academic, behavioural, demographic, and socioeconomic factors influencing student outcomes and to support data-driven academic and operational decision-making.
